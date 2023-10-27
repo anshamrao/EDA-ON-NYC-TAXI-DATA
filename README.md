@@ -12,4 +12,4 @@ We have used the NYC taxi dataset from Kaggle for this project -> https://www.ka
 * Matplotlib
 * Seaborn
 
-## VISUALIZATIONS
+
